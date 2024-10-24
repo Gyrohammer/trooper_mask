@@ -6,7 +6,7 @@ For control of some components (such as passthrough) we'll need buttons. Unsure 
 
 For control of gain and volume we'll need potentionmeters. Ideally hooked up to dials somewhere easily accessible.
 
-Battery: Turnigy High Capacity 10000mAh 4S 12C Lipo Pack w/XT90
+Battery: Just kidding we're not gonna be using LiPo, just not worth it. Instead we'll be using a 10,000mAh powerbank that has all the protections built-in.
 Buck Converters (x2): MP1584EN 
 Microphone: INMP441 
 Amp: MAX98357 
