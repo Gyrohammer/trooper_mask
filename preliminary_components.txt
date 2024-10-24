@@ -1,0 +1,7 @@
+Pre-emtive BOM for Project
+
+We'll need a battery, two step down DC-DC converters, a mic, two speakers, and amp, and a microprocessor. 
+
+For control of some components (such as passthrough) we'll need buttons. Unsure as to how many at the moment.
+
+For control of gain and volume we'll need potentionmeters. Ideally hooked up to dials somewhere easily accessible.
