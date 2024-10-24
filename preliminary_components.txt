@@ -5,3 +5,11 @@ We'll need a battery, two step down DC-DC converters, a mic, two speakers, and a
 For control of some components (such as passthrough) we'll need buttons. Unsure as to how many at the moment.
 
 For control of gain and volume we'll need potentionmeters. Ideally hooked up to dials somewhere easily accessible.
+
+Battery: Turnigy High Capacity 10000mAh 4S 12C Lipo Pack w/XT90
+Buck Converters (x2): MP1584EN 
+Microphone: INMP441 
+Amp: MAX98357 
+Microprocessor: ESP32
+Buttons:
+Pots: 
